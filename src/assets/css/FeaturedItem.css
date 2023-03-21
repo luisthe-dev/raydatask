@@ -8,6 +8,13 @@
   background: #ffffff;
   border: 1px solid #d0d5dd;
   border-radius: 12px;
+  margin: 20px 0;
+}
+
+.featuredItem img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 12px;
 }
 
 .featuredItem .featuredBuyer {
