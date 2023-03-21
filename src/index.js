@@ -4,6 +4,7 @@ import App from "./App";
 
 import "./index.css";
 import "./assets/css/Header.css";
+import "./assets/css/AuctionHeader.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
