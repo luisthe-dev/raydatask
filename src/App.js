@@ -1,5 +1,6 @@
 import React from "react";
 import AuctionHeader from "./components/AuctionHeader";
+import FeaturedItems from "./components/FeaturedItems";
 import Header from "./components/Header";
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
       <Header />
       <main>
         <AuctionHeader />
+        <FeaturedItems />
       </main>
     </>
   );

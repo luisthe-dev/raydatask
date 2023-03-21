@@ -1,11 +1,11 @@
 .auctionCard {
-  width: 90%;
+  width: 85%;
   margin: 20px auto;
   background: #ffffff;
   border: 1px solid #eaecf0;
   box-shadow: 0px 1px 3px #1018281a, 0px 1px 2px #1018280f;
   border-radius: 12px;
-  padding: 30px 50px 50px;
+  padding: 30px 30px 50px;
 }
 
 .auctionCard .auctionCardBackground {
